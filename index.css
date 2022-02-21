@@ -1,0 +1,106 @@
+.jjj{
+  text-align:center;
+}
+body {
+  background-color: white;
+  
+}
+
+.team{
+  background-color: Purple;
+  
+}
+form{
+  border-width:1px;
+  border-style:solid;
+  border-color:grey;
+  padding-left:0px;
+  height:360px;
+  border-radius: 10px;
+}
+ .bro {
+  color: white;
+  text-decoration: none;
+  background-color:purple;
+  
+ }
+ button{
+   background-color: rgb(139, 38, 240);
+   width:325px;
+   height:45px;
+ }
+ input[type=text]:focus {
+  background-color: red;
+  outline: none;
+  width:70px;
+}
+h3{
+  font-size:25px;
+}
+.order{
+  text-align: center;
+  
+}
+.yt{
+  
+  border-radius: 15px;
+  border: 1px solid grey;
+  padding: 20px;
+  width: 300px;
+  color:grey;
+}
+.aka{
+  border-radius: 15px;
+  border: 1px solid grey;
+  padding: 20px;
+  width: 300px;
+  color:grey;
+  
+}
+.what{
+  border-radius: 15px;
+  border: 1px solid grey;
+  padding: 20px;
+  width: 300px;
+  color:grey;
+}
+.fun{
+  border-radius: 15px;
+  border: 1px solid grey;
+  padding: 20px;
+  width: 300px;
+  color:grey;
+  
+}
+.nice{
+  
+  border-radius: 15px;
+  border:1px solid grey;
+  padding: 20px;
+  width: 300px;
+  color:grey;
+}
+.tv{
+  color:black;
+}
+.tab{
+  color:black;
+}
+.top{
+  color:black;
+}
+.lap{
+  color:black;
+}
+. phone{
+  color:black;
+}
+.uip{
+  text-align:center;
+}
+.yup{
+text-align:right;
+position: fixed;
+
+}
+
